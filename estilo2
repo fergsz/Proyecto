@@ -1,0 +1,28 @@
+div.lista{
+width: 180px; height: 400px; 
+background-color:gray;
+float: left;
+border: 2px;
+
+}
+*{
+		padding: 0px;
+		margin: 0px;
+	}
+
+a{
+	color: white;
+	font-size: 10px;
+	font-family: arial;
+
+}
+	
+	
+
+	
+
+	#Lista2 li ul{
+		display: none;
+		position: absolute;
+		
+	}
